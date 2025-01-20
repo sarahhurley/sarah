@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I am a GIS Analyst for the State of Connecticut GIS Office. I like to map maps & things. 
+**Sarah Hurley** :evergreen_tree: Map Maker :evergreen_tree: Data Professional :evergreen_tree: Outdoor Enthusiast :evergreen_tree:

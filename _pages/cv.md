@@ -20,6 +20,7 @@ sarahhurley01@gmail.com · [LinkedIn Profile] · [GitHub Profile]
 **Connecticut GIS Office** – Hartford, CT \
 *June 2023* – *Present*  
 
+
 ### **Environmental Analyst**  
 **Connecticut Department of Enrgy and Environmental Protection** – Hartford, CT \
 *April 2020* – *June 2023*  

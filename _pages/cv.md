@@ -4,55 +4,34 @@ title: "CV"
 ---
 
 # Sarah Hurley
-Western Massachusetts 
+Western Massachusetts \
 sarahhurley01@gmail.com · [LinkedIn Profile] · [GitHub Profile]
 
 ---
 
-## **Professional Summary**
-A brief statement summarizing your professional background, key skills, and career goals. Highlight your unique value proposition and tailor it to your target role.
-
----
-
 ## **Skills**
-- **Technical Skills:** [List technical skills, e.g., programming languages, tools, frameworks]
+- **Technical Skills:** [List of skills]
 - **Soft Skills:** [List soft skills, e.g., communication, leadership, teamwork]
-- **Languages:** [Languages spoken, e.g., English, Spanish]
 
 ---
 
 ## **Experience**
-### **[Job Title]**  
-**[Company Name]** – [City, State]  
-*[Start Date]* – *[End Date]*  
-- Key responsibility or achievement #1. Use bullet points to describe your contributions and impact.
-- Key responsibility or achievement #2. Quantify results where possible, e.g., "Increased efficiency by 30%."
+### **GIS Analyst**  
+**State of Connecticut GIS Office** – Hartford, CT  
+*June 2023* – *Present*  
 
-### **[Job Title]**  
-**[Company Name]** – [City, State]  
-*[Start Date]* – *[End Date]*  
-- Key responsibility or achievement #1.
-- Key responsibility or achievement #2.
+### **Environmental Analyst**  
+**Connecticut Department of Enrgy and Environmental Protection** – Hartford, CT 
+*April 2020* – *June 2023*  
 
 ---
 
 ## **Education**
-**[Degree, Major]**  
-[University/College Name], [City, State]  
-*[Start Date]* – *[End Date]*  
+**Biodiversity and Conservation Biology, M.S.**, 2018  
+University of Connecticut - Storrs, CT  
 
-**[Degree, Major]** *(if applicable)*  
-[University/College Name], [City, State]  
-*[Start Date]* – *[End Date]*  
-
----
-
-## **Certifications**
-- **[Certification Name]** – [Issuing Organization]  
-  *[Month, Year Earned]*
-
-- **[Certification Name]** – [Issuing Organization]  
-  *[Month, Year Earned]*
+**Ecology and Environmental Biology, B.S.**, 2017
+University of Connecticut - Storrs, CT 
 
 ---
 
@@ -67,14 +46,6 @@ A brief statement summarizing your professional background, key skills, and care
 
 ---
 
-## **Awards and Achievements**
-- **[Award Name]** – [Organization]  
-  *[Year]*  
-
-- **[Achievement Description]**  
-
----
-
 ## **Volunteer Experience** *(Optional)*  
 ### **[Role]**  
 **[Organization Name]** – [City, State]  
@@ -83,6 +54,6 @@ A brief statement summarizing your professional background, key skills, and care
 
 ---
 
-## **Interests** *(Optional)*  
-- List a few personal interests or hobbies to give a human touch, e.g., "Photography, Hiking, Chess."
+## **Interests**  
+- Mountain biking, skiing, hiking
 
